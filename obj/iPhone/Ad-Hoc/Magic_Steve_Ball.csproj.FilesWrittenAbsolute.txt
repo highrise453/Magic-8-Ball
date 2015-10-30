@@ -1,0 +1,12 @@
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/ibtool/LaunchScreen.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/actool/partial-info.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/actool/asset-manifest.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhone/Ad-Hoc/Magic_Steve_Ball.exe.mdb
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhone/Ad-Hoc/Magic_Steve_Ball.exe
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/Magic_Steve_Ball.exe
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhone/Ad-Hoc/Magic_Steve_Ball.exe.mdb

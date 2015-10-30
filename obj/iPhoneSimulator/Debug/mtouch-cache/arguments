@@ -1,0 +1,29 @@
+# Version: 8.6.1.26 (98ee412)
+# [first argument, ignore] # /Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.1.26/bin/mtouch-64 \
+	--cache \
+	/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhoneSimulator/Debug/Magic_Steve_Ball.app \
+	--executable \
+	Magic_Steve_Ball \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhoneSimulator/Debug//Magic_Steve_Ball.exe \

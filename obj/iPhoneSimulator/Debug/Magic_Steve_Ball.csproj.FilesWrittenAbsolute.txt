@@ -1,0 +1,12 @@
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhoneSimulator/Debug/Magic_Steve_Ball.exe.mdb
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/bin/iPhoneSimulator/Debug/Magic_Steve_Ball.exe
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/Magic_Steve_Ball.exe
+/Users/admin/Projects/Magic_Steve_Ball/Magic_Steve_Ball/obj/iPhoneSimulator/Debug/Magic_Steve_Ball.exe.mdb
